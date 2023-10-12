@@ -1,0 +1,14 @@
+computation,date,player_id,result,c_id
+sailing,1203,1,5,5
+sailing,2304,16,6,4
+humanpowered,1206,6,7,5
+humanpowered,1108,17,8,1
+humanpowered,1011,11,9,7
+sailing,2905,20,7,4
+sailing,2011,18,1,6
+windpowerd,2205,22,2,8
+windpowerd,2310,12,3,8
+sailing,2405,24,4,4
+rawing,2504,6,5,5
+rawing,2701,23,6,9
+
